@@ -1,0 +1,11 @@
+#package folder
+packages/
+
+#logs folder
+logs/
+
+#pyc files
+lib/*.pyc
+
+# __init__
+lib/__init__.py
